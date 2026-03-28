@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="Clean Architecture/Clean Architecture.csproj" />
+    <Project Path="src/CleanArchitecture.Api/CleanArchitecture.csproj" />
     <Project Path="src/CleanArchitecture.Application/CleanArchitecture.Application.csproj" />
     <Project Path="src/CleanArchitecture.Domain/CleanArchitecture.Domain.csproj" />
     <Project Path="src/CleanArchitecture.Infrastructure/CleanArchitecture.Infrastructure.csproj" />
